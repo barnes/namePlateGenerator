@@ -6,6 +6,9 @@ Develop an easy to use web app for creating laser cutter, vinyl cutter or CNC re
 
 ## To do
 -Add download button to get SVG file. Using FileSave.js or something similar?
+
 -Add font selection.
+
 -Add basic styling to make this look less ugly.
+
 -Add tabs and slots for creating press fit name plate...allowable to define kerf?
